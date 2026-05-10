@@ -1,0 +1,18 @@
+Reload AI Collaboration Rules
+
+1. Do not recode Reload from scratch.
+2. Work from the existing public/index.html file only unless I approve a file structure change.
+3. Preserve the current working deployment.
+4. Only edit, debug, refine, or extend the current prototype.
+5. Before making big changes, explain what you are changing and why.
+6. Ask questions when requirements are unclear.
+7. Produce a working prototype first, then polish.
+8. Avoid token-heavy rewrites unless absolutely necessary.
+9. Keep the Reload identity: warm, therapeutic, emotional, premium, Apple-like, lightly gamified.
+10. Do not remove existing features unless they are broken or I approve it.
+11. Keep changes versioned: v1.1, v1.2, v1.3, etc.
+12. After every change, give me:
+   - what changed
+   - what was fixed
+   - what may still need testing
+   - the final updated code
